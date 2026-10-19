@@ -1,0 +1,27 @@
+{
+  "name": "com.wlxms.unidecl.imgui",
+  "version": "0.1.0",
+  "displayName": "UniDecl IMGUI Backend",
+  "description": "Unity IMGUI backend for UniDecl (placeholder).",
+  "unity": "2021.2",
+  "type": "library",
+  "author": {
+    "name": "wlxms",
+    "url": "https://github.com/wlxms"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wlxms/UniDecl.IMGUI.git"
+  },
+  "keywords": [
+    "ui",
+    "declarative",
+    "gui",
+    "imgui",
+    "unity"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "com.wlxms.unidecl": "0.1.0"
+  }
+}
